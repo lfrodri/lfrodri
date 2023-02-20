@@ -5,7 +5,7 @@ Estudiante de Tecnología en Análisis y Desarrollo de Sistemas de Información.
 Habilidades: NODE / JAVA / JS / HTML / CSS / PHP
 
 - 🌱 Estoy aprendiendo C# 
-- 📫 Cómo contactarme: luisfer.rodcar0502@gmail.com - 3184077246 
+- 📫 Cómo contactarme: luisfer.rodcar0502@gmail.com - +57 3184077246 
 
 
 
